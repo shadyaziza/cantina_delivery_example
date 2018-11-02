@@ -7,11 +7,11 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 class OrdersBloc {
   OrdersBloc(String uid) {
     getCurrentPlaceUsers(uid).then((QuerySnapshot q) => q.documents.forEach(
-        (DocumentSnapshot doc) => getSubsOfUser(doc.data['phoneNumber']).then(
-            (_)  {
-                // print(_subTempList);
-                _subSubject.sink.add(UnmodifiableListView(_subTempList));
-                print(_subSubject.value);
+        (DocumentSnapshot doc) =>
+            getSubsOfUser(doc.data['phoneNumber']).then((_) {
+              // print(_subTempList);
+              _subSubject.sink.add(UnmodifiableListView(_subTempList));
+              print(_subSubject.value);
             })));
   }
 
