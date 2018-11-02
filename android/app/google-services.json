@@ -1,0 +1,440 @@
+{
+  "project_info": {
+    "project_number": "629241848222",
+    "firebase_url": "https://the-kitchen-b74f4.firebaseio.com",
+    "project_id": "the-kitchen-b74f4",
+    "storage_bucket": "the-kitchen-b74f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:0bb3582fa5015ac3",
+        "android_client_info": {
+          "package_name": "app.cantina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-u6k63mvpdbsm7u90a428sakt80e3e9h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina",
+            "certificate_hash": "5ec7ab8e19c50ff5b9ce84ad656c0b358e2cabfc"
+          }
+        },
+        {
+          "client_id": "629241848222-g26v258tavn1g18lv6ih7pvvbe89peue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina",
+            "certificate_hash": "680ec4456353e41df9559143f43d73dbb89e2e8c"
+          }
+        },
+        {
+          "client_id": "629241848222-529rcvqq6ipod77bvb18trari7qsqth8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina",
+            "certificate_hash": "25ae33ce4d2e55322d6e42a38b5e97b528180522"
+          }
+        },
+        {
+          "client_id": "629241848222-bkr63ntg55u86fs0omvh31nie83k2962.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina",
+            "certificate_hash": "1c0b07fe82b0e2f329efb73cca5456500dc7e9b3"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:97d186cc4157abda",
+        "android_client_info": {
+          "package_name": "app.cantina.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-01lp13u1df4fdhh7c1rv1p9511v4kft8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina.customer",
+            "certificate_hash": "0541251fe6bf6eead9cef72f02b7ab46e097a141"
+          }
+        },
+        {
+          "client_id": "629241848222-c3ooqu29rn9mi1qgmrgjoeairgttkso2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina.customer",
+            "certificate_hash": "5ec7ab8e19c50ff5b9ce84ad656c0b358e2cabfc"
+          }
+        },
+        {
+          "client_id": "629241848222-8c8cu3lbiuj496bnf4eg42q04c2egif8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina.customer",
+            "certificate_hash": "680ec4456353e41df9559143f43d73dbb89e2e8c"
+          }
+        },
+        {
+          "client_id": "629241848222-gcinh7k25h579k3sdh9quus600mk4682.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina.customer",
+            "certificate_hash": "25ae33ce4d2e55322d6e42a38b5e97b528180522"
+          }
+        },
+        {
+          "client_id": "629241848222-j7g7q0tp5l09269b5u0jr9eck0u22lbu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina.customer",
+            "certificate_hash": "bb9dc02e85e1f87edd2180440af202c5dcf6f63f"
+          }
+        },
+        {
+          "client_id": "629241848222-da31e915tqoggal93gb9mofeia53hs30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantina.customer",
+            "certificate_hash": "1c0b07fe82b0e2f329efb73cca5456500dc7e9b3"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:10e5e6b33aba834a",
+        "android_client_info": {
+          "package_name": "app.cantinaadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-7036rjcfh85lr7qrt1h18o0r1cilfelm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.cantinaadmin",
+            "certificate_hash": "5ec7ab8e19c50ff5b9ce84ad656c0b358e2cabfc"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:d6fb89cec713e98c",
+        "android_client_info": {
+          "package_name": "com.example.cantinadelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-oggjamr3eb4fh3ahcquvs0qcogercvf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cantinadelivery",
+            "certificate_hash": "5ec7ab8e19c50ff5b9ce84ad656c0b358e2cabfc"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:99f414bded2d34db",
+        "android_client_info": {
+          "package_name": "com.example.chefapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-c0cfda9is76gfjior0ngi1imiv8hapoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chefapp",
+            "certificate_hash": "5ec7ab8e19c50ff5b9ce84ad656c0b358e2cabfc"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:14446dad24d67b6d",
+        "android_client_info": {
+          "package_name": "com.example.delv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-b559ihjdl4im15735kad2s3ad5g0fnnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delv3",
+            "certificate_hash": "aaca90bf76d5b9401f8fc055fff819d72277e213"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629241848222:android:b48ee9b6b012520f",
+        "android_client_info": {
+          "package_name": "com.shadyaziza.thekitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629241848222-v2bmr7o8df9cgmf0dk7e8ha080keg590.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadyaziza.thekitchen",
+            "certificate_hash": "87aae96ebf43a4153549693f37c7432963e6883e"
+          }
+        },
+        {
+          "client_id": "629241848222-a1dko9vf81llmb23ft5jql11ts66vmek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shadyaziza.thekitchen",
+            "certificate_hash": "5ec7ab8e19c50ff5b9ce84ad656c0b358e2cabfc"
+          }
+        },
+        {
+          "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdQbyl6TmfZbEqXUuGo_YgoPNQtjkaypA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629241848222-c59tsjirh3tr8n8fpdp2ia9fh96vu2kr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "629241848222-lhjm2mb1b45gttolu93bipqcbfm5mvve.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.cantina.customer"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
